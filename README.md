@@ -1,5 +1,5 @@
 # neural
-Neural network in C. For more speed, use new_neural_network.s.
+Neural network in C. For more speed, convert to assembly.
 Use download.py to download MNIST dataset and convert to binary.
 
 
